@@ -10,4 +10,4 @@
 - 🔭 I’m currently working on engineering software development and control engineering software development.
 - 🌱 I’m currently learning control theory and embedded development.
 - 😄 Pronouns: He/Him
-- 💖 Hobby: LEGO loyal player!
+- 💖 Hobby: LEGO and Gundam loyal player!
