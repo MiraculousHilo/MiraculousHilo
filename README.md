@@ -1,5 +1,4 @@
 ## Hi there 👋
-
 <!--
 **MiraculousHilo/MiraculousHilo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
@@ -9,5 +8,5 @@
   - 2020.09 - 2023.06  Major in decision-making and optimization in control theory and control engineering at TYUST.
 - 🔭 I’m currently working on engineering software development and control engineering software development.
 - 🌱 I’m currently learning control theory and embedded development.
-- 😄 Pronouns: He/Him
 - 💖 Hobby: LEGO and Gundam loyal player!
+- 😄 Pronouns: He/Him
